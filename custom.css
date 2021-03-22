@@ -1,0 +1,3 @@
+/* Odyssey's Vivaldi CSS */
+.button-toolbar.ContentBlocker-Control button /*Removes the adblock button in the address bar. Comment this if you use the integrated adblocker (uBlock Origin is way better) */
+{display:none !important;}
