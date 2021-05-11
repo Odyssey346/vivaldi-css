@@ -1,3 +1,12 @@
 /* Odyssey's Vivaldi CSS */
 .button-toolbar.ContentBlocker-Control button /*Removes the adblock button in the address bar. Comment this if you use the integrated adblocker (uBlock Origin is way better) */
 {display:none !important;}
+
+.SiteInfoButton {
+	padding-left: 5px;
+}
+
+.siteinfo-text {
+	margin: 0;
+	display: none;
+}
